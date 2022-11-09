@@ -17,4 +17,13 @@
 
 <style lang="css" scoped>
 
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid white;
+}
+
 </style>
